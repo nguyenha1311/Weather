@@ -1,0 +1,17 @@
+\\Mac\Home\Downloads\xamarin-forms-samples-master\Weather\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.deps.json
+\\Mac\Home\Downloads\xamarin-forms-samples-master\Weather\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.dll
+\\Mac\Home\Downloads\xamarin-forms-samples-master\Weather\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.pdb
+\\Mac\Home\Downloads\xamarin-forms-samples-master\Weather\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\xamarin-forms-samples-master\Weather\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\xamarin-forms-samples-master\Weather\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfo.cs
+\\Mac\Home\Downloads\xamarin-forms-samples-master\Weather\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.dll
+\\Mac\Home\Downloads\xamarin-forms-samples-master\Weather\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.pdb
+C:\Projects\Weather\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.deps.json
+C:\Projects\Weather\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.dll
+C:\Projects\Weather\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.pdb
+C:\Projects\Weather\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csprojResolveAssemblyReference.cache
+C:\Projects\Weather\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Projects\Weather\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Projects\Weather\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfo.cs
+C:\Projects\Weather\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.dll
+C:\Projects\Weather\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.pdb
