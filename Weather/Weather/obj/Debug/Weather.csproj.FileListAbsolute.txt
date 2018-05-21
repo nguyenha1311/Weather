@@ -19,4 +19,3 @@ C:\Projects\Weather Test 2\Weather\Weather\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Projects\Weather Test 2\Weather\Weather\obj\Debug\XamlC.stamp
 C:\Projects\Weather Test 2\Weather\Weather\obj\Debug\Weather.dll
 C:\Projects\Weather Test 2\Weather\Weather\obj\Debug\Weather.pdb
-C:\Projects\Weather Test 2\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache

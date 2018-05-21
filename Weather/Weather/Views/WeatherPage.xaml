@@ -2,24 +2,10 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"  
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              xmlns:behaviors="clr-namespace:Weather.Helpers;assembly=Weather"
+             xmlns:weather="clr-namespace:Weather;assembly=Weather"
              x:Class="Weather.Views.WeatherPage"
              Title="Sample Weather App">
-
-    <ContentPage.Resources>
-        <ResourceDictionary>
-            <Style x:Key="LabelStyle" TargetType="Label">
-                <Setter Property="FontSize" Value="Small" />
-                <Setter Property="TextColor" Value="#404040" />
-            </Style>
-            <Style x:Key="FieldStyle" TargetType="Label">
-                <Setter Property="FontSize" Value="Medium" />
-                <Setter Property="Margin" Value="10,0,0,0" />
-                <Setter Property="TextColor" Value="#404040" />
-      </Style>
-        </ResourceDictionary>
-    </ContentPage.Resources>
-
-    <StackLayout>
+  <StackLayout>
         <Grid  Padding="10, 10, 10, 10">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto" />
@@ -35,19 +21,18 @@
             <Label Text="Search by Zip Code" 
                    Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3"
                    HorizontalOptions="Center"
-                   TextColor="#404040" FontAttributes="Bold" FontSize="Medium" />
+                   Style="{StaticResource MediumLabelStyle}" />
             
             <Label x:Name="ZipCodeLabel" Text="Zip Code:" 
                    Grid.Row="1" Grid.Column="0"
                    VerticalOptions="Center"
-                   Style="{StaticResource LabelStyle}"
-                   TextColor="#404040" />
+                   Style="{StaticResource LabelStyle}"/>
             
             <Entry x:Name="zipCodeEntry"
                    Grid.Row="1" Grid.Column="1"
                    VerticalOptions="Center"
                    Margin="5,0"
-                   TextColor="#404040" 
+                   Style="{StaticResource EntryStyle}"
                    Keyboard="Numeric">
                   <Entry.Behaviors>
                      <behaviors:FormValidation MaxLength="5" />
@@ -59,9 +44,7 @@
                     HorizontalOptions="Center"
                     VerticalOptions="Center"
                     BorderWidth="1"
-                    BorderColor="White"
-                    BackgroundColor="#2196f3"
-                    TextColor="White"
+                    Style="{StaticResource ButtonStyle}"
                     Clicked="GetWeatherBtn_Clicked" />
         </Grid>
 

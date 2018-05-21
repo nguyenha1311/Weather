@@ -1,10 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Application xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:weather="clr-namespace:Weather;assembly=Weather"
              x:Class="Weather.App">
 	<Application.Resources>
-
-		<!-- Application resource dictionary -->
-
-	</Application.Resources>
+    <ResourceDictionary>
+      <Style x:Key="LabelStyle" TargetType="Label">
+        <Setter Property="FontSize" Value="Small" />
+        <Setter Property="TextColor" Value="#404040" />
+      </Style>
+      <Style x:Key="MediumLabelStyle" TargetType="Label">
+        <Setter Property="FontSize" Value="Medium" />
+        <Setter Property="FontAttributes" Value="Bold" />
+        <Setter Property="TextColor" Value="#404040" />
+      </Style>
+      <Style x:Key="FieldStyle" TargetType="Label">
+        <Setter Property="FontSize" Value="Medium" />
+        <Setter Property="Margin" Value="10,0,0,0" />
+        <Setter Property="TextColor" Value="#404040" />
+      </Style>
+      <Style x:Key="EntryStyle" TargetType="Entry">
+        <Setter Property="TextColor" Value="#404040" />
+      </Style>
+      <Style x:Key="ButtonStyle" TargetType="Button">
+        <Setter Property="BorderColor" Value="White" />
+        <Setter Property="BackgroundColor" Value="#2196f3" />
+        <Setter Property="TextColor" Value="White" />
+      </Style>
+    </ResourceDictionary>
+  </Application.Resources>
 </Application>
