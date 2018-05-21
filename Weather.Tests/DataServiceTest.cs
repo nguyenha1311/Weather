@@ -20,11 +20,14 @@ namespace Weather.Tests
             IDataService dataService = new DataService();
             ServiceResult serviceResult = await dataService.GetDataFromService(queryString).ConfigureAwait(false);
 
+            //Test returned service results
             Assert.IsNotNull(serviceResult);
             Assert.IsNotNull(serviceResult.Results);
             Assert.IsTrue(string.IsNullOrEmpty(serviceResult.Errors));
 
             dynamic results = serviceResult.Results;
+
+            //Test if returned fields are null or empty
             Assert.IsTrue(results["weather"] != null);
             Assert.IsFalse(string.IsNullOrEmpty(results["name"].ToString()));
             Assert.IsFalse(string.IsNullOrEmpty(results["main"]["temp"].ToString()));
@@ -33,6 +36,8 @@ namespace Weather.Tests
             Assert.IsFalse(string.IsNullOrEmpty(results["weather"][0]["main"].ToString()));
             Assert.IsFalse(string.IsNullOrEmpty(results["sys"]["sunrise"].ToString()));
             Assert.IsFalse(string.IsNullOrEmpty(results["sys"]["sunset"].ToString()));
+
+            //Compare the zipcode with the city name
             Assert.AreEqual(results["name"].ToString(), "Lewisville");
         }
     }
