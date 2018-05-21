@@ -15,3 +15,12 @@ C:\Projects\Weather\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.As
 C:\Projects\Weather\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfo.cs
 C:\Projects\Weather\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.dll
 C:\Projects\Weather\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.pdb
+C:\Projects\Weather Test\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.deps.json
+C:\Projects\Weather Test\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.dll
+C:\Projects\Weather Test\WeatherApp\WeatherApp\bin\Debug\netstandard2.0\WeatherApp.pdb
+C:\Projects\Weather Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csprojResolveAssemblyReference.cache
+C:\Projects\Weather Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Projects\Weather Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfoInputs.cache
+C:\Projects\Weather Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.AssemblyInfo.cs
+C:\Projects\Weather Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.dll
+C:\Projects\Weather Test\WeatherApp\WeatherApp\obj\Debug\netstandard2.0\WeatherApp.pdb

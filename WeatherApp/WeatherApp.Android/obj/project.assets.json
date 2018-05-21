@@ -788,11 +788,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Weather\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
+      "projectUniqueName": "C:\\Projects\\Weather Test\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
       "projectName": "WeatherApp.Android",
-      "projectPath": "C:\\Projects\\Weather\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
+      "projectPath": "C:\\Projects\\Weather Test\\WeatherApp\\WeatherApp.Android\\WeatherApp.Android.csproj",
       "packagesPath": "C:\\Users\\hanguyen\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Weather\\WeatherApp\\WeatherApp.Android\\obj\\",
+      "outputPath": "C:\\Projects\\Weather Test\\WeatherApp\\WeatherApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -810,8 +810,8 @@
       "frameworks": {
         "monoandroid80": {
           "projectReferences": {
-            "C:\\Projects\\Weather\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
-              "projectPath": "C:\\Projects\\Weather\\WeatherApp\\WeatherApp\\WeatherApp.csproj"
+            "C:\\Projects\\Weather Test\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
+              "projectPath": "C:\\Projects\\Weather Test\\WeatherApp\\WeatherApp\\WeatherApp.csproj"
             }
           }
         }

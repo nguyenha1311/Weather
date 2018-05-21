@@ -904,11 +904,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Weather\\WeatherApp\\WeatherApp.iOS\\WeatherApp.iOS.csproj",
+      "projectUniqueName": "C:\\Projects\\Weather Test\\WeatherApp\\WeatherApp.iOS\\WeatherApp.iOS.csproj",
       "projectName": "WeatherApp.iOS",
-      "projectPath": "C:\\Projects\\Weather\\WeatherApp\\WeatherApp.iOS\\WeatherApp.iOS.csproj",
+      "projectPath": "C:\\Projects\\Weather Test\\WeatherApp\\WeatherApp.iOS\\WeatherApp.iOS.csproj",
       "packagesPath": "C:\\Users\\hanguyen\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Weather\\WeatherApp\\WeatherApp.iOS\\obj\\",
+      "outputPath": "C:\\Projects\\Weather Test\\WeatherApp\\WeatherApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -926,8 +926,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Projects\\Weather\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
-              "projectPath": "C:\\Projects\\Weather\\WeatherApp\\WeatherApp\\WeatherApp.csproj"
+            "C:\\Projects\\Weather Test\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
+              "projectPath": "C:\\Projects\\Weather Test\\WeatherApp\\WeatherApp\\WeatherApp.csproj"
             }
           }
         }

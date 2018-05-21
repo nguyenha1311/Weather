@@ -463,11 +463,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Weather\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+      "projectUniqueName": "C:\\Projects\\Weather Test\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
       "projectName": "WeatherApp",
-      "projectPath": "C:\\Projects\\Weather\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+      "projectPath": "C:\\Projects\\Weather Test\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
       "packagesPath": "C:\\Users\\hanguyen\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Weather\\WeatherApp\\WeatherApp\\obj\\",
+      "outputPath": "C:\\Projects\\Weather Test\\WeatherApp\\WeatherApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

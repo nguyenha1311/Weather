@@ -24,3 +24,29 @@
 \\Mac\Home\Downloads\xamarin-forms-samples-master\Weather\WeatherApp\WeatherApp.Android\obj\Debug\android\assets\WeatherApp.Android.dll.mdb
 \\Mac\Home\Downloads\xamarin-forms-samples-master\Weather\WeatherApp\WeatherApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 \\Mac\Home\Downloads\xamarin-forms-samples-master\Weather\WeatherApp\WeatherApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\bin\Debug\WeatherApp.Android.dll
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\bin\Debug\WeatherApp.Android.pdb
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\bin\Debug\com.companyname.WeatherApp.apk
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\bin\Debug\com.companyname.WeatherApp-Signed.apk
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\bin\Debug\WeatherApp.dll
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\bin\Debug\WeatherApp.pdb
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\WeatherApp.Android.csprojResolveAssemblyReference.cache
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\WeatherApp.Android.csproj.CoreCompileInputs.cache
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\WeatherApp.Android.dll
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\WeatherApp.Android.pdb
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\android\bin\com.companyname.WeatherApp.apk
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\res\drawable\icon.png
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\res\layout\tabbar.xml
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\res\layout\toolbar.xml
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\res\values\styles.xml
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\R.cs.flag
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\uploadflags.txt
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\bin\Debug\WeatherApp.Android.dll.mdb
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\android\assets\WeatherApp.Android.dll.mdb
+C:\Projects\Weather Test\WeatherApp\WeatherApp.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
