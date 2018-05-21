@@ -1,0 +1,22 @@
+C:\Projects\Weather Test\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+C:\Projects\Weather Test\Weather\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+C:\Projects\Weather Test\Weather\Weather\obj\Debug\Weather.MainPage.xaml.g.cs
+C:\Projects\Weather Test\Weather\Weather\obj\Debug\Weather.App.xaml.g.cs
+C:\Projects\Weather Test\Weather\Weather\obj\Debug\Weather.Views.MainPage.xaml.g.cs
+C:\Projects\Weather Test\Weather\Weather\obj\Debug\Weather.Views.WeatherPage.xaml.g.cs
+C:\Projects\Weather Test 2\Weather\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+C:\Projects\Weather Test 2\Weather\Weather\bin\Debug\Weather.dll
+C:\Projects\Weather Test 2\Weather\Weather\bin\Debug\Weather.pdb
+C:\Projects\Weather Test 2\Weather\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Weather Test 2\Weather\Weather\bin\Debug\Xamarin.Forms.Core.dll
+C:\Projects\Weather Test 2\Weather\Weather\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Projects\Weather Test 2\Weather\Weather\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Projects\Weather Test 2\Weather\Weather\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Weather Test 2\Weather\Weather\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Projects\Weather Test 2\Weather\Weather\bin\Debug\Xamarin.Forms.Core.xml
+C:\Projects\Weather Test 2\Weather\Weather\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Projects\Weather Test 2\Weather\Weather\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Projects\Weather Test 2\Weather\Weather\obj\Debug\XamlC.stamp
+C:\Projects\Weather Test 2\Weather\Weather\obj\Debug\Weather.dll
+C:\Projects\Weather Test 2\Weather\Weather\obj\Debug\Weather.pdb
+C:\Projects\Weather Test 2\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
